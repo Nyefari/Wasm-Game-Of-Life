@@ -20,7 +20,7 @@ This Repository is from my follow-through of the Rust-Wasm tutorial. Testing doe
 
 ## 🚴 Usage
 
-### This will be available from my website when it is done. If you want to have your own copy of the wasm-pack template, use the code below.
+### This will be available to play with/enjoy on my website when it is done. If you want to have your own copy of the wasm-pack template, use the code below.
 
 ```
 cargo generate --git https://github.com/rustwasm/wasm-pack-template.git --name my-project
